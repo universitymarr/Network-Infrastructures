@@ -26,7 +26,7 @@ Here, find the NI homeworks from 2019/2020. In addition also the questions and t
 | [Christian Marinoni](https://github.com/chrismarinoni) | 2020 | 
 
 ## Notes
-Notes are taken during lesson / videolesson ( recordings are provided time to time by teachers ) and I ordered them with ChatGpt ( so may be unseen errors ). Furthermore take pdf files are taken with [notion][https://www.notion.so/desktop?cookie_sync_completed=true]. Unlucky notes may be have unformatted things due to exportation ( e.g. the title at the end of a page result in a bad visual breaks ); I have tried to create a latex files but it take so long. If you want to edit them, you can convert them word files.
+Notes are taken during lesson / videolesson ( recordings are provided time to time by teachers ) and I ordered them with ChatGpt ( so may be unseen errors ). Furthermore take pdf files are taken with [https://www.notion.so/desktop][notion]. Unlucky notes may be have unformatted things due to exportation ( e.g. the title at the end of a page result in a bad visual breaks ); I have tried to create a latex files but it take so long. If you want to edit them, you can convert them word files.
 
 | Author                                                 | Last Update |
 | ------------------------------------------------------ | ----------- |
