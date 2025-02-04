@@ -5,12 +5,12 @@ Here, find the NI homeworks from 2019/2020. In addition also the questions and t
 
 |   | Available | Last Update |
 | ------------- | ------------- | ------------ |
-| Exams | No | |
 | Tests | Yes| 2024 |
 | Homework  | Yes | 2020 |
 | Notes  | Yes | 2024  |
 | Slides | No |  |
 | Test answers | Yes| 2020|
+| Question exams | Yes| 2025|
 
 # Website of the course
 
@@ -31,12 +31,12 @@ Notes are taken during lesson / videolesson ( recordings are provided time to ti
 
 | Author                                                 | Last Update |
 | ------------------------------------------------------ | ----------- |
-| [Jacopo Tedeschi](https://github.com/jacopotdsc)      | 2024        |
+| [Jacopo Tedeschi](https://github.com/jacopotdsc)      | 2025        |
 
-## Tests 
+## Tests and Exam Questions
 | Author                                                 | Last Update |
 | ------------------------------------------------------ | ----------- |
-| [Jacopo Tedeschi](https://github.com/jacopotdsc)      | 2024        |
+| [Jacopo Tedeschi](https://github.com/jacopotdsc)      | 2025        |
 
 
 
